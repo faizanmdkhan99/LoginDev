@@ -1,0 +1,7 @@
+D:\Azure training\AzureD8\LoginDev\bin\Debug\LoginDev.exe.config
+D:\Azure training\AzureD8\LoginDev\bin\Debug\LoginDev.exe
+D:\Azure training\AzureD8\LoginDev\bin\Debug\LoginDev.pdb
+D:\Azure training\AzureD8\LoginDev\obj\Debug\LoginDev.csprojAssemblyReference.cache
+D:\Azure training\AzureD8\LoginDev\obj\Debug\LoginDev.csproj.CoreCompileInputs.cache
+D:\Azure training\AzureD8\LoginDev\obj\Debug\LoginDev.exe
+D:\Azure training\AzureD8\LoginDev\obj\Debug\LoginDev.pdb

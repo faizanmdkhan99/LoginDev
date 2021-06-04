@@ -1,0 +1,17 @@
+D:\Azure training\AzureD8\NewTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Azure training\AzureD8\NewTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Azure training\AzureD8\NewTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Azure training\AzureD8\NewTest\bin\Debug\NewTest.dll
+D:\Azure training\AzureD8\NewTest\bin\Debug\NewTest.pdb
+D:\Azure training\AzureD8\NewTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Azure training\AzureD8\NewTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Azure training\AzureD8\NewTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Azure training\AzureD8\NewTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Azure training\AzureD8\NewTest\obj\Debug\NewTest.csprojAssemblyReference.cache
+D:\Azure training\AzureD8\NewTest\obj\Debug\NewTest.csproj.CoreCompileInputs.cache
+D:\Azure training\AzureD8\NewTest\obj\Debug\NewTest.csproj.CopyComplete
+D:\Azure training\AzureD8\NewTest\obj\Debug\NewTest.dll
+D:\Azure training\AzureD8\NewTest\obj\Debug\NewTest.pdb
+D:\Azure training\AzureD8\NewTest\bin\Debug\LoginDev.exe
+D:\Azure training\AzureD8\NewTest\bin\Debug\LoginDev.pdb
+D:\Azure training\AzureD8\NewTest\bin\Debug\LoginDev.exe.config
